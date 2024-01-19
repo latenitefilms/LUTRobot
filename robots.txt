@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://lutrobot.pro/sitemap.xml.gz
