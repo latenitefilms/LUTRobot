@@ -9,10 +9,16 @@
 
 # LUT Robot
 
-**Advanced LUT Management for Final Cut Pro.**
+**Automatically apply Camera LUTs with matching filenames.**
 
-Unlike Final Cut Pro's built-in Custom LUT and Camera LUT tools, **LUT Robot** allows you to "link" to a LUT stored in any folder.
+![](/static/lut-robot.png)
 
-It also allows you to apply LUTs in bulk to clips - for example, if you have a unique LUT for each of your rushes files.
+When working on big long-form projects, such as feature films and television shows, DITs on-set create unique Camera LUTs for each shot.
 
-LUT Robot is currently in active development. We hope to release a beta on FxFactory towards the end of January 2024.
+For example, the production might be shooting on an ARRI Alexa and when they hand over the rushes, they also hand over LUTs for each camera file.
+
+LUT Robot automatically applies Camera LUTs with matching filenames, saving hours of work for Assistant Editors, who until now, had to manually set the Camera LUT for each clip.
+
+You can select a specific sub-folder within your Camera LUTs folder to scan.
+
+This is a simple niche app, that saves high-end professional assistant editors using Final Cut Pro hours of time.

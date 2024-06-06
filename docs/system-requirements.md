@@ -1,7 +1,7 @@
 # System Requirements
 
-LUT Robot requires **Final Cut Pro 10.6.5** or later, although we recommend **Final Cut Pro 10.7.1**.
+LUT Robot requires **Final Cut Pro 10.7.1** or later.
 
-It requires **macOS Ventura** or later, although we recommend **Sonoma**.
+It requires **macOS Sonoma** or later.
 
 You can find Final Cut Pro's system requirements [here](https://www.apple.com/au/final-cut-pro/specs/).
