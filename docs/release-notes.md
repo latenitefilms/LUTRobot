@@ -1,5 +1,16 @@
 # Release Notes
 
+### v1.0.3 (5)
+
+**🎉 Released:**
+- 22nd January 2026
+
+**🔨 Improvements:**
+- Updated to support FCPXML v1.13.
+- Updated the LUT Robot application icon for macOS 26 Tahoe. Thanks Matthew Skiles!
+
+---
+
 ### v1.0.2 (4)
 
 **🎉 Released:**
